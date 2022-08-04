@@ -1,0 +1,2 @@
+# KdvHesaplama
+ www.patika.dev
